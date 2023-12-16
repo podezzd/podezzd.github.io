@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+nav {
+  background-color: #000000;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.header-image {
+  width: 100%;
+}
+
+.main-content {
+  display: flex;
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.text-section {
+  width: 60%;
+}
+
+.video-section {
+  width: 40%;
+  margin-right: 20px;
+}
+
+.map-section {
+  max-width: 80%;
+  padding: 0 10%;
+  width: 80%;
+}
+
+.gallery-section {
+  max-width: 80%;
+  padding: 0 10%;
+  width: 80%;
+}
+
+.download-section {
+  max-width: 80%;
+  padding: 0 10%;
+  width: 80%;
+}
+
+.map-image {
+  width: 100%;
+}
+
+.gallery>img{
+  width:100%;
+}
+
+.logo {
+  text-align: center;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
+
+footer {
+  clear: both;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
